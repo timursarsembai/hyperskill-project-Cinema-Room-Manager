@@ -1,0 +1,10 @@
+content:
+  - Theory
+  - Unknown input
+  - Lines that may throw NPE
+  - Avoid NPE with strings
+  - Code that throws an exception
+  - Avoid NPE
+  - Catching null pointer exception in code
+  - Return empty string when argument is null
+  - Where NPE might occur

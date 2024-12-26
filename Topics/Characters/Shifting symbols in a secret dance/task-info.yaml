@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: |-
+      <pre><code class="java">char symbol = 'a';
+      symbol--;
+      </code></pre>Decrementing 'symbol' will store the character just before 'a' in Unicode sequence.
+  - text: |-
+      <pre><code class="java">char digit = '5';
+      digit += 3;
+      </code></pre>The 'digit' will be converted automatically to an integer data type.
+  - text: A char variable in Java can store decimal values.
+  - text: |-
+      <pre><code class="java">char letter = 'A';
+      letter++;
+      </code></pre>After this operation, 'letter' holds the Unicode for 'B'.
+  - text: |-
+      <pre><code class="java">char number = 50;
+      number += 25;
+      </code></pre>The resulting value of 'number' will be the character equivalent to 75 in the ASCII table.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47963#comment
+status: Solved
+record: -1
+local_check: false

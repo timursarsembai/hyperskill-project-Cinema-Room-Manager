@@ -1,0 +1,20 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/51553#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:6: error: cannot find symbol
+            System.out.println(new LandOfNumbers().summonSpecialNumbers(number));
+                                   ^
+      symbol:   class LandOfNumbers
+      location: class Main
+    1 error
+  time: "Thu, 12 Dec 2024 19:06:31 UTC"
+record: -1
+submission_language: java17

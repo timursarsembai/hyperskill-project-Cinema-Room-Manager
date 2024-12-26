@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: It has a minimum value of '\u0000' and a maximum value of '\uffff'.
+  - text: It may be considered as an unsigned integer value in the range from 0 to 65535.
+  - text: "It represents a single character such as '0', 'A', 'b'."
+  - text: It may be considered as a signed integer value in the range from -32768 to
+      32767.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1970#comment
+status: Solved
+record: -1
+local_check: false

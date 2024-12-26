@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - <code>'\n'</code>
+  - <code>'\t'</code>
+  - <code>' '</code>
+  - <code>'\\'</code>
+options:
+  - backslash character
+  - space character
+  - tab character
+  - new line character
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5021#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

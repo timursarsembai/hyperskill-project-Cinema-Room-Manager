@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 102
+  - text: f
+  - text: ch
+  - text: \u0036
+  - text: "The code can't be compiled, because '+' is illegal here."
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2693#comment
+status: Solved
+record: -1
+local_check: false
